@@ -1,0 +1,17 @@
+{
+  "domain_tests": {
+    "passed": 6,
+    "failed": 0
+  },
+  "syntax_checks": [
+    "assets/app.js",
+    "assets/domain.js",
+    "assets/startup.js",
+    "assets/pdf-viewer.js",
+    "sw.js"
+  ],
+  "local_references": "passed",
+  "browser_test": "Not completed: Chromium download unavailable in this environment.",
+  "live_auth_and_database": "Not tested; requires user account and deployed backend.",
+  "supabase_vendor_sha256": "d6a5c4414a5d4ce646d9c1de223aa7067d3ff664c15394ffeb7fcffc763354a3"
+}
